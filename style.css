@@ -1,0 +1,13 @@
+.h-btn{
+    width: 20%;
+    background-color: black;
+    border-radius: 4px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.h-btn:hover{
+    background-color: rgb(53, 52, 52);
+    color: rgb(211, 209, 209);
+}
