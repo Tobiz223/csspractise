@@ -5,6 +5,9 @@
     text-align: center;
     color: white;
     cursor: pointer;
+    margin: 20px;
+    padding: 40px;
+    border: none;
 }
 
 .h-btn:hover{
